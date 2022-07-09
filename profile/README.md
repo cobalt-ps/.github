@@ -6,8 +6,9 @@
 * [인원 모집](https://github.com/cobalt-ps/.github/blob/master/%EC%9D%B8%EC%9B%90_%EB%AA%A8%EC%A7%91.md)
 * [스터디 운영 규칙 정하기](https://github.com/cobalt-ps/.github/blob/master/%EA%B7%9C%EC%B9%99_%EC%A0%95%ED%95%98%EA%B8%B0.md)
 * [문제 선정 가이드](https://github.com/cobalt-ps/.github/blob/master/%EB%AC%B8%EC%A0%9C_%EC%84%A0%EC%A0%95.md)
-* 스터디 운영하기 (작성 예정)  
-  어떤 서비스로(오픈카톡, 슬랙/디스코드, github, notion 등) 스터디를 운영할지, 진행상황은 어떻게 추적할지 등을 설명할 것입니다.
+* [스터디 운영하기](https://github.com/cobalt-ps/.github/blob/master/%EC%8A%A4%ED%84%B0%EB%94%94_%EC%9A%B4%EC%98%81.md)  
+* 백준 그룹 활용하기 (작성 예정)
+  백준을 통해 스터디를 진행하는 경우, 그룹 기능을 활용할 수 있는 방법을 공유할 예정입니다.
 
 ### 추가 정보
 
